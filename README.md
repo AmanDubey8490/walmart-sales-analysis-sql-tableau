@@ -16,9 +16,7 @@ Key Analysis Performed
 
 Dashboard
 Tableau Public Dashboard:  
-https://public.tableau.com/your-dashboard-link
-
-![Dashboard Screenshot](tableau/dashboard_screenshot.png)
+https://public.tableau.com/views/walmarttableau_17679550210980/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Business Insights
 - Holiday periods drive significantly higher average weekly sales.
