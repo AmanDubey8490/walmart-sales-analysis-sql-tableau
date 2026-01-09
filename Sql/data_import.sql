@@ -1,0 +1,1 @@
+-- Batch inserts used to avoid MySQL local infile issues
